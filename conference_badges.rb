@@ -6,5 +6,6 @@ return "Hello, my name is #{name}."
    counter = 0
    while (counter < 7)
   return "Hello, my name is #{attendee[counter]}."
+  counter += 1
 end 
 end
