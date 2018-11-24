@@ -7,3 +7,4 @@ return "Hello, my name is #{name}."
    attendees.each do |attendee|
   return "Hello, my name is #{attendee}."
 end 
+end
